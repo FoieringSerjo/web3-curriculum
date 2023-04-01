@@ -1,1 +1,18 @@
 
+ls
+git pull
+ls -l
+ls
+cd learn-digital-signatures-by-building-a-wallet/
+clear
+node get-address-balance.js Me
+node add-transaction.js Me You 35
+node mine-block.js 
+node validate-chain.js 
+touch generate-wallet.js
+npm install elliptic
+clear
+node generate-wallet.js 
+touch wallets.json
+node generate-wallet.js Me
+touch my-private-keys.txt

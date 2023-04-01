@@ -1,0 +1,29 @@
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$ 1 ls
+/workspace/web3-curriculum$ 2 git pull
+/workspace/web3-curriculum$ 3 ls -l
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$ 1 ls
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 2 cd learn-digital-signatures-by-building-a-wallet/
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 3 clear
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 4 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 5 node add-transaction.js Me You 35
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 6 node mine-block.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 7 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 8 touch generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 9 npm install elliptic
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 10 clear
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 11 node generate-wallet.js
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 12 touch wallets.json
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 13 node generate-wallet.js Me
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 14 touch my-private-keys.txt
