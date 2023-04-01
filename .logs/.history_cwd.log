@@ -27,3 +27,6 @@
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 12 touch wallets.json
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 13 node generate-wallet.js Me
 /workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 14 touch my-private-keys.txt
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 15 node generate-wallet.js You
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 16 node generate-wallet.js Fred
+/workspace/web3-curriculum/learn-digital-signatures-by-building-a-wallet$ 17 node generate-wallet.js Wilma

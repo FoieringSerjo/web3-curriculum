@@ -6,10 +6,6 @@ const ec = new EC.ec('p192');
 const keyPair = ec.genKeyPair();
 
 const publicKey = keyPair.getPublic('hex');
-const privateKey = keyPair.getPrivate('hex');
-
-console.log(`Public Key: ${publicKey}`);
-console.log(`Private Key: ${privateKey}`);
 
 const newWalletName = process.argv[2];
 

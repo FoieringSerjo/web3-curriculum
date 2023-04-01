@@ -16,3 +16,6 @@ node generate-wallet.js
 touch wallets.json
 node generate-wallet.js Me
 touch my-private-keys.txt
+node generate-wallet.js You
+node generate-wallet.js Fred
+node generate-wallet.js Wilma
